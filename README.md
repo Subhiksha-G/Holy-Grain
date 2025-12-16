@@ -71,7 +71,7 @@ Holy-Grain/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/Holy-Grain.git
+   git clone https://github.com/Subhiksha-G/Holy-Grain.git
    ```
 
 2. **Navigate to the project folder**
