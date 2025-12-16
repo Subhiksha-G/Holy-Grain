@@ -1,16 +1,140 @@
-# React + Vite
+# Holy-Grain
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and modern React + Vite layout-focused website designed to practice structure, spacing, and responsive UI design. This project emphasizes layout composition, visual hierarchy, and reusable components, making it suitable for frontend practice, landing page layouts, and portfolio projects.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+🔗 [https://holy-grain.vercel.app/](https://holy-grain.vercel.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 About the Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Holy Grain is a frontend web project built using React and Vite. The main objective of this project is to practice component-based development, layout structuring, and modern UI styling using CSS, along with a fast development workflow powered by Vite. This project focuses purely on layout design, visual hierarchy, and responsive structure, making it suitable for frontend practice and portfolio presentation
+
+---
+
+## 🛠 Tech Stack
+
+* React.js
+* Vite
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+---
+
+## ✨ Features
+
+* Responsive design for all screen sizes
+* Fast performance with Vite
+* Reusable React components
+* Beginner-friendly project structure
+
+---
+
+## 📁 Project Structure
+
+```
+Holy-Grain/
+
+├── public/               # Static assets
+
+├── src/
+
+│   ├── App.jsx           # Main React component
+
+│   ├── App.css           # Application styles
+
+│   └── main.jsx          # React entry point
+
+├── .gitignore
+
+├── index.html            # Root HTML file
+
+├── package.json          # Dependencies & scripts
+
+├── package-lock.json
+
+├── vite.config.js        # Vite configuration
+
+└── README.md             # Project documentation
+
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/your-username/Holy-Grain.git
+   ```
+
+2. **Navigate to the project folder**
+
+   ```bash
+   cd Holy-Grain
+   ```
+
+3. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+4. **Run the development server**
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open your browser and visit:
+
+   ```
+   http://localhost:5173
+   ```
+
+---
+
+## 📦 Available Scripts
+
+| Command         | Description                  |
+| --------------- | ---------------------------- |
+| `npm install`   | Install dependencies         |
+| `npm run dev`   | Start development server     |
+
+---
+
+## 📘 Learnings
+
+* Building React projects with Vite
+* Creating clean and reusable UI components
+* Styling responsive layouts using CSS
+* Structuring frontend projects professionally
+
+---
+
+## 🚀 Future Enhancements
+
+* Add more sections (About, Products, Contact)
+* Improve UI animations and transitions
+* Add backend integration for dynamic content
+* Enhance accessibility and SEO
+
+---
+
+## 👤 Author
+
+**Subhiksha G**
+
+Frontend Developer
+
+[Email](subhikshavkl@gmail.com) | [LinkedIn](https://linkedin.com/in/subhiksha-g)
+
+---
+
+⭐ If you like this project, feel free to give it a star!
